@@ -11,7 +11,7 @@ img {
 }
 h1 {
   font-family: Helvectia, Futura, "Times New Roman";
-  color: #EEEDE8;
+  color: #000000;
   font-size: 60px;
   padding-top: 40px;
   margin: 10 10 10 10;
@@ -25,7 +25,7 @@ body {
 /*Unsure how my h2 "Hi! I'm Casey!" changed to the color black, as well as "Artist" */
 h2 {
   font-family: Helvectia, Futura, "Times New Roman";
-  color: #EEEDE8 !important;
+  color: #000000 !important;
   font-size: 30px;
   padding-top: 50px;
   margin: 0 0 0 0;
@@ -34,7 +34,7 @@ h2 {
 
 h3 {
   font-family: Helvectia, Futura, "Times New Roman";
-  color: #EEEDE8;
+  color: #000000;
   font-size: 20px;
   text-align: center;
 }
@@ -42,7 +42,7 @@ h3 {
 ul {
   font-family: Helvectia, Futura, "Times New Roman"; 
   font-size: 18px;
-  color: #EEEDE8;
+  color: #000000;
   text-align: left;
   margin-left: 10%;
   margin-right: 10%;
@@ -52,7 +52,7 @@ ul {
 ol {
   font-family: Helvectia, Futura, "Times New Roman";
   font-size: 18px;
-  color: #EEEDE8;
+  color: #000000;
   text-align: left;
   margin-left: 10%
   margin-right: 10%;
@@ -69,7 +69,7 @@ hr {
 }
 p {
   font-family: "Times New Roman", Helvectia, Futura;
-  color: #EEEDE8;
+  color: #000000;
   font-size: 18px;
   line-height: 20px;
   text-align: center;
@@ -89,7 +89,7 @@ a:active {
 footer {
   font-family: Helvectia, Futura, "Times New Roman";
   font-size: 10px;
-  color: #EEEDE8;
+  color: #000000;
   background-color: #F09D51;
   text-align: center;
 }
