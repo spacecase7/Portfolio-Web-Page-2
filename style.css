@@ -1,0 +1,96 @@
+/* style.css sheet */
+
+/* top of webpage */
+header {
+  background-color: #F09D51;
+  height: 300px;
+  margin: 0 0 0 0;
+}
+img {
+  border-radius: 10%;
+}
+h1 {
+  font-family: Helvectia, Futura, "Times New Roman";
+  color: #EEEDE8;
+  font-size: 60px;
+  padding-top: 40px;
+  margin: 10 10 10 10;
+  text-align: center;
+}
+body {
+  background-color: #95D289;
+  text-align: center;
+}
+}
+/*Unsure how my h2 "Hi! I'm Casey!" changed to the color black, as well as "Artist" */
+h2 {
+  font-family: Helvectia, Futura, "Times New Roman";
+  color: #EEEDE8 !important;
+  font-size: 30px;
+  padding-top: 50px;
+  margin: 0 0 0 0;
+  text-align: center;
+}
+
+h3 {
+  font-family: Helvectia, Futura, "Times New Roman";
+  color: #EEEDE8;
+  font-size: 20px;
+  text-align: center;
+}
+/*My (unordered list) bullet points*/
+ul {
+  font-family: Helvectia, Futura, "Times New Roman"; 
+  font-size: 18px;
+  color: #EEEDE8;
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 10; 
+}
+/* my numeric (ordered list) bullet points*/
+ol {
+  font-family: Helvectia, Futura, "Times New Roman";
+  font-size: 18px;
+  color: #EEEDE8;
+  text-align: left;
+  margin-left: 10%
+  margin-right: 10%;
+  padding: 10;
+}
+/*my horizontal line */
+hr {
+  heigth: 20px;
+  background-color: white;
+  border: 2px #solid black;
+  /* size stlye color */
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+p {
+  font-family: "Times New Roman", Helvectia, Futura;
+  color: #EEEDE8;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+}
+a:link {
+  color: #003DF5;
+}
+a:visited {
+  color: #FA0F1B;
+}
+a:hover {
+  color: #FFC20A;
+}
+a:active {
+  color: #000000;
+}
+footer {
+  font-family: Helvectia, Futura, "Times New Roman";
+  font-size: 10px;
+  color: #EEEDE8;
+  background-color: #F09D51;
+  text-align: center;
+}
+
